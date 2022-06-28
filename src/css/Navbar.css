@@ -1,0 +1,36 @@
+.headerDiv
+{
+    background-color: rgb(89 181 201);
+    text-transform: uppercase;
+    color: #fff !important;
+   
+
+}
+span
+ a
+{
+    color: #fff !important;
+}
+#navbar1
+{
+    box-shadow: 3px 3px 6px -3px;
+    background: rgb(89 181 201);
+    padding: 14px;
+    text-align: center;
+    color: #fff !important;
+}
+.nav-link a
+{
+    color: #fff !important;
+    text-decoration: none;
+    font-size: 20px;
+}
+.headerShrink
+{
+    background-color: #000000 !important;
+    box-shadow: 3px 3px 6px -3px !important;
+}
+.navbar-light .navbar-toggler-icon
+{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
